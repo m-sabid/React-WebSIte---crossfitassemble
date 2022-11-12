@@ -1,0 +1,39 @@
+.OurTeamCom{
+    width: 100%;
+    margin: 50px auto;
+}
+.cart:hover .name_more{    
+    transform: translateY(0rem);
+}
+.cart:hover .team_image{
+    transform: scale(1.2);
+    transition: all 300ms;
+}
+
+.cart{
+    position: relative; 
+    z-index: 0;
+    overflow: hidden;
+    color: white;
+    font-size: 1.1rem;
+}
+.name_more{
+    position: absolute;
+    transform: translateY(8rem);
+    transition: all 500ms;
+    z-index: 10;
+    bottom: 0;
+    padding: 10px;
+    background-color: rgba(8, 2, 2, 0.525);
+    width: 100%;
+}
+.more_btn{
+    background-color: #FAA61A;
+    padding: 0 5px;
+    text-transform: uppercase;
+    border-radius: 0 0 0 10px;
+}
+
+.dis{
+    max-height: 500px;
+}

@@ -1,0 +1,51 @@
+.about_bg {
+    overflow-x: hidden !important;
+}
+
+#bgImage{
+    height: 90vh;
+    z-index: -10;
+    width: 100%;
+    object-fit: cover;
+}
+
+.about_bg::before {
+    content: "";
+    position: absolute;
+    top: 1000px;
+    right: -200px;
+    width: 800px;
+    height: 550px;
+    border-radius: 50%;
+    transform: rotate(-20deg);
+    background-color: rgba(255, 0, 0, 0.06);
+}
+
+.about {
+    border-bottom: 2px solid red;
+    width: 80px;
+}
+
+.vision {
+    width: fit-content;
+}
+
+.bg1{
+    background-image: url(../../../assets/About/imge1.jpeg);
+}
+.bg2{
+    background-image: url(../../../assets/About/img4e.jpeg);
+}
+.bg3{
+    background-image: url(../../../assets/About/img1e.jpeg);
+}
+
+.why-us{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    padding: 10%;
+    position: relative;
+    color: white;   
+}

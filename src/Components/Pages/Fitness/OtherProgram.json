@@ -1,0 +1,57 @@
+[
+    {
+        "programName":"On Ramp",
+        "programDescription":"For those looking to ease their way into CrossFit, we offer an On Ramp Program. This program is designed to ramp up your fitness and give you more exposure to the movements involved in CrossFit before CrossFit general classes. This is a four classes package."
+    },
+    {
+        "programName":"Assemble",
+        "programDescription":"For those who want the best of both worlds. This is a combination of CrossFit and Legion. Which means you unlock all the classes offered in our facility."
+    },
+    {
+        "programName":"Legion",
+        "programDescription":"Apart from CrossFit, we offer a diverse range of training options. By enrolling in the 'Legion' package you unlock all of these classes stated below Power Hour- Strength training based on Compound lifts. HIIT- High Intensity Interval Training conducted by the only HIIT certified coach in the country. Mobilizer- A rehab focused program. It's good for everyone but people with injuries or disabilities, postural deviations, people just out of surgery may immensely benefit from this class. Martial Arts- Being able to defend yourself and your loved ones when necessary is a mandatory skill for everyone. So we have a program designed with real life scenarios in mind."
+    },
+    {
+        "programName":"Skill Session",
+        "programDescription":"Quick 30-minute session designed for group class members especially for patrons who deals with specific skill issue. The coach will check and correct form and assign homework where necessary. Our coaches do their utmost to look out for every member however individual attention is not possible. Thus, skill session is the solution."
+    },
+    {
+        "programName":"Body Comp Analyzer",
+        "programDescription":"Segmental/Medical body composition analyzer describes the analysis of the body composition , current state of body water, protein, minerals, and fat to provide more precise information beyond weight and BMI. Gives you a complete picture about where you are and how you need to train."
+    },
+    {
+        "programName":"Nutrition Coaching",
+        "programDescription":"The nutrition coaching to address individual goals and limitations. Physical training without proper nutrition doesn't work. This nutrition coaching is for everyone. If there is a question about which one comes first, Nutrition coaching should be advised before training."
+    },
+    {
+        "programName":"Semi-Personal Training",
+        "programDescription":"Group Personal training at its best. Suitable for spouse, family members, friends, and groups. Basically, for people with similar goals. Personal Training in groups helps with accountability and creates a competitive environment."
+    },
+    {
+        "programName":"Individual Nutrition Coaching",
+        "programDescription":"This is a one-on-one nutrition coaching to address individual goals and limitations. Physical training without proper nutrition doesn't work. This program is for everyone. If there is a question about which one comes first, Nutrition coaching should be advised before training."
+    },
+    {
+        "programName":"Family/Group Nutrition Coaching",
+        "programDescription":"Group Nutrition coaching at its best. Program designed for the whole family/group because when everyone works on the same goal, probability of success increases for every individual due to strong support system. We are offering this because, many a times people fail to see result due to weak support system. Working together instills values for good health into the family."
+    },
+    {
+        "programName":"Follow Up Nutrition Coaching",
+        "programDescription":"Because Nutrition coaching is a continuous process! Achieving health and fitness related goals is not a quick fix or a one-time event, but rather a lifelong journey. We will guide you with the knowledge and skills needed to make positive behavior changes that last a lifetime."
+    },
+    {
+        "programName":"Personalized Food Plan for 3 months",
+        "programDescription":"Sometimes we need a little guidance and that’s alright! We have a solution for those who need a guide every step of the way. This program is a day-by-day food plan for 90 days."
+    },
+    {
+        "programName":"Gym Membership",
+        "programDescription":"This package enables gym access only. If you are confident that you have a solid plan of action and have a will power strong enough to keep yourself accountable towards your goal, this is for you."
+    },
+    {
+        "programName":"Single Day Gym Pass",
+        "programDescription":"If you're in town for a day or two or you want to check out the environment before making a commitment, it's a good idea to get yourself a day pass."
+    },
+    {
+        "programName":"Single Group Class Pass",
+        "programDescription":"Try before you commit. For a small fee try any single group class available throughout the day before you commit to our programs."}
+]
